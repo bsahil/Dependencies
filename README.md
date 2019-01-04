@@ -38,7 +38,6 @@ chmod 777 file – all can read, write and execute
 2. Type _sudo chmod 700 dependencies.sh_ in terminal.
 3. run the command _./dependencies.sh_.
 
-#### I am currently working on the password prompts to ensure a smooth ubuntu setup. 
-#### P.S. I am not. :p
+#### Disable password prompts and go take a shower while this file sets your ubuntu up. :p
 
 
