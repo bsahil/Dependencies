@@ -2,13 +2,13 @@
 Musthave in every Linux Installation.
 1. Updates and Upgrades new installation
 2. Installs git.
-	2. Git.
-	2. Installs snapd.
-	2. Installs Visual Studio Code.
-	2. Installs build-essential package.
-	2. Installs clipit(A Software to improve clipboard capabilities).
-	2. Installs autojump.
-	2. Installs nightlight, gnome, gnome-tweak-tool, dash to dock and dconf-editor.
+	*Git.
+	*snapd.
+	*Visual Studio Code.
+	*build-essential package.
+	*clipit(A Software to improve clipboard capabilities).
+	*autojump.
+	*nightlight, gnome, gnome-tweak-tool, dash to dock and dconf-editor.
 
 
 
