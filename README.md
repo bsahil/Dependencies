@@ -1,5 +1,14 @@
-# ubuntu
+# Ubuntu
 Musthave in every Linux Installation.
+1. Updates and Upgrades new installation
+2. Installs git.
+2. Installs snapd.
+2. Installs Visual Studio Code.
+2. Installs build-essential package.
+2. Installs clipit. // software to improve clipboard capabilities.
+2. Installs autojump.
+2. Installs nightlight, gnome, gnome-tweak-tool, dash to dock and dconf-editor.
+
 
 
 ## Permissions:
@@ -22,7 +31,7 @@ chmod 600 file – owner can read and write
 chmod 700 file – owner can read, write and execute  
 chmod 666 file – all can read and write  
 chmod 777 file – all can read, write and execute  
-
+	
 ## To execute follow the steps
 
 1. autojump/jump to the folder where you have downloaded the file.
