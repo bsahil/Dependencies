@@ -9,7 +9,7 @@ sudo apt-get install build essential
 install clipit
 install autojump
 install nightlight
-%install gnome
+install gnome
 install tlp
 install gnome-tweak-tool
 install dash-to-dock
