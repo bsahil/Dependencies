@@ -1,15 +1,14 @@
 # Ubuntu
 Musthave in every Linux Installation.
 1. Updates and Upgrades new installation
-2. Installs git.
-	*Git.
-	*snapd.
-	*Visual Studio Code.
-	*build-essential package.
-	*clipit(A Software to improve clipboard capabilities).
-	*autojump.
-	*nightlight, gnome, gnome-tweak-tool, dash to dock and dconf-editor.
-
+2. Installs
+	* Git
+	* snapd
+	* Visual Studio Code
+	* build-essential package
+	* clipit(A Software to improve clipboard capabilities)
+	* autojump
+	* nightlight, gnome, gnome-tweak-tool, dash to dock and dconf-editor
 
 
 ## Permissions:
