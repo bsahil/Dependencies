@@ -38,6 +38,9 @@ chmod 777 file – all can read, write and execute
 2. Type _sudo chmod 700 dependencies.sh_ in terminal.
 3. run the command _./dependencies.sh_.
 
+###Updates:
+1. [Jan'19 2109] Added _-y_ tag to update and upgrade so as to pass all _yes/no_ permissions.
+
 #### Disable password prompts and go take a shower while this file sets your ubuntu up. :p
 
 
